@@ -1,0 +1,17 @@
+header {
+    font-size: 20px;
+}
+
+b {
+    color:purple;
+}
+
+label {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+footer{
+    color:blue;
+    font-size: 14px;
+}
