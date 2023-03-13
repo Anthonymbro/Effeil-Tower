@@ -1,5 +1,6 @@
-header {
-    font-size: 20px;
+.box {
+    border-top: 10px solid black; 
+    border-bottom: 10px solid black;
 }
 
 b {
@@ -12,6 +13,12 @@ label {
 }
 
 footer{
+    border-top: 10px solid black;
     color:blue;
     font-size: 14px;
+    text-align:center;
+}
+
+section {
+    
 }
