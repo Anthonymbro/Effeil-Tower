@@ -20,5 +20,7 @@ footer{
 }
 
 section {
-    
+    border: solid black;
+    background-color: white;
+    padding: 2%;
 }
